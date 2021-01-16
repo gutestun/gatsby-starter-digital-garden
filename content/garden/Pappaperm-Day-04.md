@@ -7,7 +7,8 @@ category:
 season: summer
 ---
 
-- **Me**: increase in talk to baby: marked.  
+# Day 04
+- **Me**: Increase in talk to baby: Marked.  
 	- **Analysis**: Lack of social contact with adults.  
 	- **Consequence**: Babbling incessantly to wife when she gets home from work  
 - **Baby**: hole in kitchen floor: inspected.  
@@ -26,17 +27,20 @@ Mostly.
 
 On the fourth day – the today-day – you talk to the coffee machine. And the air; you let words float into thin air to see if it responds.  
 
-It does not. (might have to wait until day 16, maybe?)
+It does not. (might have to wait until day 16, maybe? When psychosis has had time to fully form)
 
 ## Diaper change
 Changing diapers. Baby on belly. I message The Woman about something *extremely* important (*every time I pick up my phone it is important*). 
 
-During this time baby relaxes. Consequently bladder pressure decreases significalty → fluid displacement: From inside baby → outside baby → *on* to front side of baby (belly) *and* the mat upon which baby rested. A film of fresh baby-bee between the baby and the changing mat is now ready for Paternal Unit to remove with a damp (warm – baby likes it very warm) cloth. Parental Joy is administered by way of oxytocin release in synaptic gap + qualia of disgust induced by Human Larvae piss = cognitive dissonance.
+During this time baby relaxes...
 
-## Capitalism (Buying stuff) is fun
-Going mad looking for another stroller/trolley/wagon/thing the baby lies and sits in and observes the world while I develop strong calves and tired thighs pushing the little philosopher-observer-king.
+Consequently: Bladder pressure decreases significalty → fluid displacement from inside of baby to outside of baby → *on* to front side of baby (belly) *and* the mat upon which belly, baby, is resting.
 
-I hate finn.no. Were I to calculate time spent researching things (both things I end up buying and not buyign) I would probably discover I could have ran a side-business with enough revenue to buy everything I bought on Finn at full price. Money is time, Time is money.
+A film of fresh baby-bee between the baby and the changing mat is now ready for Paternal Unit to remove with a damp (warm – baby likes it very warm) cloth.
+
+Parental Joy is administered by way of oxytocin release in synaptic gap + qualia of disgust induced by Human Larvae piss = cognitive dissonance.
+
+Paternalhood is a complicated, convoluted process.
 
 ---
 

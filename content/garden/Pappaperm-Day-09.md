@@ -1,4 +1,8 @@
-I thought about USB cables as I was about to insert the USB cable. What I thought was that "haha you never get it right until the third try" thing, where the first time you tried it was the right way around but you didn't get it in, so you turn it… yeah, you get it.  
+# Day 09
+
+I thought about USB cables as I was about to insert a USB cable into a… a… a usb-hole?
+
+What I thought about was that "haha you never get it right until the third try" thing, where the third time you try it was the right way around but you didn't get it in, so you turn it… yeah, you get it.  
 
 I did that while thinking about it.  
 
@@ -8,9 +12,9 @@ That was my day.
 
 That's it.  
 
----
+(*I am Double-Dad now. What you expect?* What **I** expect is to morph into my *final form* soon and become Double-Plus-Good-Dad)
 
-(*I am Dad now. What you expect?*)
+---
 
 Addendum: Is this pappaperm-"blog" thing actually a good idea? Doing **any**thing *every* day is ***always*** a chore…
 

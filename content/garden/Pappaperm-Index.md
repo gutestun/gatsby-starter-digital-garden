@@ -7,6 +7,13 @@ category:
 season: summer
 ---
 
+Hi.
+
+I'm alone (so very, very alone) every day.
+
+But it's OK. No, really! It is! I am with The Baby-Son, so I'm OK. It's fun. Let me share the fun. 
+
+
 | Day No.                        | Date       | Weekday   |
 | ------------------------------ | ---------- | --------- |
 | **Month 1**                    |            |           |
