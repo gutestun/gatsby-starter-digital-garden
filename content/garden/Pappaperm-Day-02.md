@@ -10,9 +10,9 @@ season: summer
 ## Day 02
 - **0600**: Up since 0430. Baby delivered back to The Woman 0530. Everybody else at sleep. I awake. Girl woke up. Hungry. Got knekkebrød.  
 - **Kindergarten delivery**.
-  Addendum 2021-01-14: since I did not elaborate about the usually dreaded kindergarten delivery it must have transpired without shouting, hissing and stomping.
+ Addendum 2021-01-14: since I did not elaborate about the usually dreaded kindergarten delivery it must have transpired without shouting, hissing and stomping.
   This I cannot but find exceedingly unlikely, bordering on the suspicious.
-- **Ate** some bread at home (no sign of PTSD, halleluja)
+- **Ate** some bread at home.
 - Went **outside** with baby.
 - Baby **woke up** after 45m.
 - **11:10**:
@@ -48,17 +48,21 @@ Now I sleep again.
 
 ---
 
-Oh no! No! I do not at all fall into the sweet, sweet respite of sleep. Of course not. Because sleep matters not, not now, not to a *Middle-aged Soldier of the Second-and-a-Half-Order of Paternalhood, First Class Procrastinator, Fifteenth Level Avoider of Nappies, -7 Sleep*. Not for me. Oh no… What matters is:
+Oh no! No! I do not at all fall into the sweet, sweet respite of sleep. Of course not. Because sleep matters not, not now, not to a *Middle-aged Soldier of the Second-and-a-Half-Order of Paternalhood, First Class Procrastinator, Fifteenth Level Avoider of Nappies, class: Grizzled Cynic, religion: Resentful Stoicism, -7 Sleep*. Not for me. Oh no… What matters is:
 
 **The Awoken Girl-child.**  
 
-Her early-morning (*but-in-reality-still-black-night*)-fury is Fierce.  
+Her early-morning (*but-in-reality-still-black-night*)-**fury** is Fierce.  
 
 I tremble in Fear.  
 
-She is hungry. You have heard of **hangry**, but never *experienced* **tired fungry**.  
+She is hungry. You have heard of **hangry**, but she is **Fu**ng**ry**.
+
+I bet you have never *experienced* **tired fungry**.  
 
 I have.  
+
+I – a Middle-aged Soldier fo the Second-and-a-Half-Order of Paternalhood… I tremble.
 
 I tremble in Fear.  
 
