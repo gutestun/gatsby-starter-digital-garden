@@ -6,12 +6,20 @@ tags:
 category:
 ---
 
+# Day 06
+## (is this the) Real life; The Sixth Day
+This morning I found myself first giving orders to a cardboard robot. By this time, 0730, I had been up for 2.5 hrs. The robot had been up for 3.5. Then, shortly after, I was being surrounded by Batman, who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by baby, who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly, in a harness while Batman sulked in his room.
+
+My coffee this morning was made doubleplus strong.
+
+---
+
 # Weekend recap
 *The weekend is technically not part of the pappaperm, but weekends have the potential for just as many shenanigans and adventures as the weekdays. At least for single, childlessers. I just sum up two arbitrary days of the "week" that are quite like the other five days of the "week". Nothing has meaning any more.*
 
 Except for:
 
-## Mummitrollet
+## [[Mummitrollet]]
 Snusmumrikken and Lille My are siblings! During my 5-year old's viewing of Mummitrollet I finally acted upon a curiosity that has percolated for a while; What's the origin story of hattifnattene?
 
 I didn't find out a lot more than one of the episodes told us, but I clicked around and found that juicy bit of gossip. Nothing like a juicy piece of Mummitroll-gossip, of which there is more to come, after we get into the character I identify with the most.
@@ -30,11 +38,7 @@ Finally, on my mug, he is depicted with a telescope, watching the stars. For my 
 ## The Gossip
 Gossip No. 2: A suspicion confirmed: Hufsa and Tufsa are gay. When Sniff is on MDMA.. I mean, when Trollmannen bestows upon him the curse-gift of empathy he tells them they should not hide their love, their gender is ambiguous, they hold hands a lot. Also, Tove Janson had girlfriends.
 
-# (is this the) Real life; The Sixth Day
-This morning I found myself first giving orders to a cardboard robot. By this time, 0730, I had been up for 2.5 hrs. The robot had been up for 3.5. Then, shortly after, I was being surrounded by Batman, who threw a tantrum because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by baby, who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly, in a harness while Batman sulked in his room.
-
-My coffee this morning was made doubleplus strong.
-
+---
  
- Yesterday: [[Pappaperm-Day-05]]  
  Tomorrow: [[Pappaperm-Day-07]]  
+ Yesterday: [[Pappaperm-Day-05]]  

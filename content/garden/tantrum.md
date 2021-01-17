@@ -1,0 +1,1 @@
+Permanent vortex of emotion transcending what an [[Adults]] brain is capable of.

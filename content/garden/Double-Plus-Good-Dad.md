@@ -1,0 +1,3 @@
+Grandfather. Freed from any obligations and responsibilities the ability to induce neuroses in [[Human Larvae]] is atrophied and substituted with the ability to induce gratitude mixed with guilt in the [[Paternal Unit]], who realizes the sacrifice his – after all only human – parents did for his sake.
+
+This guilt is only dissolved when it's power is used for good in the [[Human Larvae]] and excess guilt is dumped on the [[Paternal Unit]].

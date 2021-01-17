@@ -1,0 +1,1 @@
+He, his family and his friends are your friends now. Your only friends.

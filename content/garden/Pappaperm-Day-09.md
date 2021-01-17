@@ -12,7 +12,7 @@ That was my day.
 
 That's it.  
 
-(*I am Double-Dad now. What you expect?* What **I** expect is to morph into my *final form* soon and become Double-Plus-Good-Dad)
+(*I am [[Double-Dad]] now. What you expect?* What **I** expect is to morph into my *final form* soon and become [[Double-Plus-Good-Dad]])
 
 ---
 
@@ -20,5 +20,5 @@ Addendum: Is this pappaperm-"blog" thing actually a good idea? Doing **any**thin
 
 ---
  
- Yesterday: [[Pappaperm-Day-08]]  
  Tomorrow: [[Pappaperm-Day-10]]  
+ Yesterday: [[Pappaperm-Day-08]]  

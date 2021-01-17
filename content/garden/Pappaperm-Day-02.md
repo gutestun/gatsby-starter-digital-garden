@@ -9,7 +9,7 @@ season: summer
 
 ## Day 02
 - **0600**: Up since 0430. Baby delivered back to The Woman 0530. Everybody else at sleep. I awake. Girl woke up. Hungry. Got knekkebrød.  
-- **Kindergarten delivery**.
+- **Kindergarten delivery**.  
  Addendum 2021-01-14: since I did not elaborate about the usually dreaded kindergarten delivery it must have transpired without shouting, hissing and stomping.
   This I cannot but find exceedingly unlikely, bordering on the suspicious.
 - **Ate** some bread at home.
@@ -48,7 +48,7 @@ Now I sleep again.
 
 ---
 
-Oh no! No! I do not at all fall into the sweet, sweet respite of sleep. Of course not. Because sleep matters not, not now, not to a *Middle-aged Soldier of the Second-and-a-Half-Order of Paternalhood, First Class Procrastinator, Fifteenth Level Avoider of Nappies, class: Grizzled Cynic, religion: Resentful Stoicism, -7 Sleep*. Not for me. Oh no… What matters is:
+Oh no! No! I do not at all fall into the sweet, sweet respite of sleep. Of course not. Because sleep matters not, not now, not to a *Middle-aged Soldier of the Second-and-a-Half-Order of Paternalhood, First Class Procrastinator, Fifteenth Level Avoider of Nappies, class: Grizzled Cynic, religion: Resentful Stoicism, gender: solipsist, -7 Sleep, Holder of the Encryption Key of Roko's Basilisk*. Not for me. Oh no… What matters is:
 
 **The Awoken Girl-child.**  
 
@@ -68,5 +68,5 @@ I tremble in Fear.
 
 ---
 
-Yesterday: [[Pappaperm-Day-01]]  
 Tomorrow: [[Pappaperm-Day-03]]
+Yesterday: [[Pappaperm-Day-01]]  

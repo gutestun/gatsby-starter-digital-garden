@@ -1,4 +1,4 @@
-# Day 07 (written on day 09)
+# Day 07
 *2021-01-14 (technically written on day 09, not 07)*
 
 Something slightly funny happened on this day. I thought about writing it, down, but hadn't the energy to so so. It was two sentences. Literally *two* – *quite* **short** – sentences. That was all that was required.  
@@ -11,5 +11,5 @@ It is worse for me than it is for you.
   
 ---
    
- Yesterday: [[Pappaperm-Day-06]]  
  Tomorrow: [[Pappaperm-Day-08]]  
+ Yesterday: [[Pappaperm-Day-06]]  
