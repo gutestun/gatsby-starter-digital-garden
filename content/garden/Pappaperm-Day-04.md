@@ -8,17 +8,14 @@ season: summer
 ---
 
 # Day 04
-- **Me**: Increase in talk to [[The Baby-Son]]: Marked.  
-	- **Analysis**: Lack of social contact with [[Adults]].  
-	- **Consequence**: Babbling incessantly to [[The Woman]] when she gets home from work  
-- **Baby**: hole in kitchen floor: inspected.  
+**Me**: Babbling incessantly to [[The Woman]] when she gets home from work  
+Analysis: Lack of social contact with [[Adults]].  
+
+**Baby**: hole in kitchen floor: inspected.  
 Again.  
 First item on agenda upon crawling into kitchen.  
 Every. Single. Time.
-- **Baby**: New discovery: aluminium ruler.
-- **Together**: Introduced baby to some music
-	- Los Plantronics - trash surf twang
-	- Psytrance
+
 
 ## Insanity has set in
 It takes approximately three days before you begin an incessant verbal stream of inconsequential observations about your steadily shrinking world. This is directed at [[The Baby-Son]].  
@@ -36,7 +33,7 @@ During this time baby relaxes...
 
 Consequently: Bladder pressure decreases significalty → fluid displacement from inside of baby to outside of baby → *on* to front side of baby (belly) *and* the mat upon which belly, baby, is resting.
 
-A film of fresh baby-bee between the baby and the changing mat is now ready for Paternal Unit to remove with a damp (warm – baby likes it very warm) cloth.
+A film of fresh baby-pee between the baby and the changing mat is now ready for Paternal Unit to remove with a damp (warm – baby likes it very warm) cloth.
 
 Parental Joy is administered by way of oxytocin release in synaptic gap + qualia of disgust induced by [[Human Larvae]] piss = cognitive dissonance.
 

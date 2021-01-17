@@ -8,9 +8,13 @@ category:
 
 # Day 06
 ## (is this the) Real life; The Sixth Day
-This morning I found myself first giving orders to a cardboard robot. By this time, 0730, I had been up for 2.5 hrs. The robot had been up for 3.5. Then, shortly after, I was being surrounded by Batman, who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by baby, who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly, in a harness while Batman sulked in his room.
+This morning I found myself first giving orders to a cardboard robot.  
 
-My coffee this morning was made doubleplus strong.
+By this time, 07:30, I had been up for 2.5 hrs. The robot had been up for 3.5 with [[The Woman]]. 
+
+Then, shortly after, I was being surrounded by Batman, who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by [[The Baby-Son]], who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly in a harness while Batman sulked in his room.
+
+My [[coffee]] this morning was made doubleplus strong.
 
 ---
 
@@ -36,7 +40,9 @@ He seems very sympathetic, and apparently has an interesting past; raised in an 
 Finally, on my mug, he is depicted with a telescope, watching the stars. For my 40th birthday I got a telescope, with which to watch the stars…
 
 ## The Gossip
-Gossip No. 2: A suspicion confirmed: Hufsa and Tufsa are gay. When Sniff is on MDMA.. I mean, when Trollmannen bestows upon him the curse-gift of empathy he tells them they should not hide their love, their gender is ambiguous, they hold hands a lot. Also, Tove Janson had girlfriends.
+Gossip No. 2: A suspicion confirmed: Hufsa and Tufsa are gay. When Sniff is on MDMA.. I mean, when Trollmannen bestows upon him the curse-gift(1) of empathy he tells them they should not hide their love, their gender is ambiguous, they hold hands a lot. Also, Tove Janson had girlfriends.
+
+1) Much like what children are, really.
 
 ---
  
