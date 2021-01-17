@@ -10,7 +10,6 @@ module.exports = {
     {
       resolve: `react-helmet`
     },
-
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
@@ -37,7 +36,12 @@ module.exports = {
       },
     },
 
-
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', disallow: '/' }]
+      }
+    }
 
   ],
   siteMetadata: {
