@@ -10,7 +10,7 @@ category:
 ## (is this the) Real life; The Sixth Day
 This morning I found myself first giving orders to a cardboard robot.  
 
-By this time, 07:30, I had been up for 2.5 hrs. The robot had been up for 3.5 with [The Woman](The%20Woman.md). 
+By this time, 07:30, I had been up for 2.5 hrs. The robot had been up for 3.5 with [The-Woman](The-Woman.md). 
 
 Then, shortly after, I was being surrounded by [Batman](batman.md), who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by [The-Baby-Son](The-Baby-Son.md), who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly in a harness while Batman sulked in his room.
 

@@ -8,7 +8,7 @@ season: summer
 ---
 
 # Day 04
-**Me**: Babbling incessantly to [[The Woman]] when she gets home from work  
+**Me**: Babbling incessantly to [[The-Woman]] when she gets home from work  
 Analysis: Lack of social contact with [[Adults]].  
 
 **Baby**: hole in kitchen floor: inspected.  
@@ -22,7 +22,7 @@ It takes approximately three days before you begin an incessant verbal stream of
   
 Mostly.  
 
-On the fourth day – [[The Today-Day]] – you talk to the coffee machine. And the air; you let words float into thin air to see if it responds.  
+On the fourth day – [[The-Today-Day]] – you talk to the coffee machine. And the air; you let words float into thin air to see if it responds.  
 
 It does not. (might have to wait until day 16, maybe? When psychosis has had time to fully form)
 
@@ -35,7 +35,7 @@ Consequently: Bladder pressure decreases significalty → fluid displacement fro
 
 A film of fresh baby-pee between the baby and the changing mat is now ready for Paternal Unit to remove with a damp (warm – baby likes it very warm) cloth.
 
-Parental Joy is administered by way of oxytocin release in synaptic gap + qualia of disgust induced by [[Human Larvae]] piss = cognitive dissonance.
+Parental Joy is administered by way of oxytocin release in synaptic gap + qualia of disgust induced by [[Human-Larvae]] piss = cognitive dissonance.
 
 Paternalhood is a complicated, convoluted process.
 

@@ -22,7 +22,7 @@ season: summer
 We're going to get along splendidly, **Baby** and **I**.  
 
 ## 01:12
-[[The-Baby-Son]] is crawling, a relatively new development – new enough to elicit excitement in [[Paternal Unit]]
+[[The-Baby-Son]] is crawling, a relatively new development – new enough to elicit excitement in [[Paternal-Unit]]
 It moves towards the old keyboard I gave it this morning (I cut off the cable – yes, *that* old – for safety).  
 Now it's poking at it with its rubber tooth"brush". A good sign. A step closer towards a programming baby. **My chest vibrates with pride**.
 ## 11:29

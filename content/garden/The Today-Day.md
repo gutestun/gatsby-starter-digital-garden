@@ -1,1 +1,0 @@
-The Only Day that exists. During [[The Leave]] time ceases to have meaning.
