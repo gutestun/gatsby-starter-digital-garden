@@ -1,0 +1,1 @@
+The absolute favourite character of [Fury-Girl](Fury-Girl.md)

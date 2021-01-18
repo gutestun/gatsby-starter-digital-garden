@@ -18,7 +18,7 @@ Every. Single. Time.
 
 
 ## Insanity has set in
-It takes approximately three days before you begin an incessant verbal stream of inconsequential observations about your steadily shrinking world. This is directed at [[The Baby-Son]].  
+It takes approximately three days before you begin an incessant verbal stream of inconsequential observations about your steadily shrinking world. This is directed at [[The-Baby-Son]].  
   
 Mostly.  
 

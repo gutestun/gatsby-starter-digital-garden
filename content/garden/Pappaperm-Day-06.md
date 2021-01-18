@@ -10,9 +10,9 @@ category:
 ## (is this the) Real life; The Sixth Day
 This morning I found myself first giving orders to a cardboard robot.  
 
-By this time, 07:30, I had been up for 2.5 hrs. The robot had been up for 3.5 with [[The Woman]]. 
+By this time, 07:30, I had been up for 2.5 hrs. The robot had been up for 3.5 with [The Woman](The%20Woman.md). 
 
-Then, shortly after, I was being surrounded by Batman, who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by [[The Baby-Son]], who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly in a harness while Batman sulked in his room.
+Then, shortly after, I was being surrounded by [Batman](batman.md), who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by [The-Baby-Son](The-Baby-Son.md), who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly in a harness while Batman sulked in his room.
 
 My [[coffee]] this morning was made doubleplus strong.
 
@@ -24,7 +24,7 @@ My [[coffee]] this morning was made doubleplus strong.
 Except for:
 
 ## [[Mummitrollet]]
-Snusmumrikken and Lille My are siblings! During my 5-year old's viewing of Mummitrollet I finally acted upon a curiosity that has percolated for a while; What's the origin story of hattifnattene?
+[[Snusmumrikken]] and Lille My are siblings! During my 5-year old's viewing of Mummitrollet I finally acted upon a curiosity that has percolated for a while; What's the origin story of hattifnattene?
 
 I didn't find out a lot more than one of the episodes told us, but I clicked around and found that juicy bit of gossip. Nothing like a juicy piece of Mummitroll-gossip, of which there is more to come, after we get into the character I identify with the most.
 

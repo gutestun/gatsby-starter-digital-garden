@@ -11,7 +11,7 @@ season: summer
 
 Blue skies, good mood, positive outlook. Two point five hours of [[walking]] (active time in Strava, motherfuckers).
 
-Clearly I have been kidnapped by aliens and replaced with a defective drone-clone (or, more sinister, an actual, [[Normally Functioning Human Unit]]).
+Clearly I have been kidnapped by aliens and replaced with a defective drone-clone (or, more sinister, an actual, [[Normally-Functioning-Human-Unit]]).
 
 Send help. Tell my family I love them, bleep-bloop.
 
