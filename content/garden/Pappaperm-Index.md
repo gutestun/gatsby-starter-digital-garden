@@ -13,7 +13,12 @@ I'm alone (so very, very alone) every day.
 
 But it's OK. No, really! It is! I am with The Baby-Son, so I'm OK. It's fun. Let me share the fun. 
 
-We are currently on [Pappaperm-Day-11](Pappaperm-Day-11.md)
+Newest day with words: [[Pappaperm-Day-11]]
+
+---
+
+## Chronological order
+
 
 | Day No.                        | Date       | Weekday   |
 | ------------------------------ | ---------- | --------- |
@@ -115,3 +120,9 @@ We are currently on [Pappaperm-Day-11](Pappaperm-Day-11.md)
 | [[Pappaperm-Day-73]]           | 2021-04-14 | Wednesday |
 | [[Pappaperm-Day-74]]           | 2021-04-15 | Thursday  |
 | [[Pappaperm-Day-75]]           | 2021-04-16 | Friday    |
+
+---
+
+## Days of Note
+*Days on which I was kissed by the muse, when I had extra doubleplus fun writing*
+- [[Pappaperm-Day-06]]
