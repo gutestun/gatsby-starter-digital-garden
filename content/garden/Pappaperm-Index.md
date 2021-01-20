@@ -1,3 +1,4 @@
+
 ---
 title: Pappaperm-Index
 created: 2021-01-05
@@ -23,8 +24,20 @@ Newest day with words: [[Pappaperm-Day-11]]
 | Day No.                        | Date       | Weekday   |
 | ------------------------------ | ---------- | --------- |
 | **Month 1**                    |            |           |
-| **[[Pappaperm-Week-1]]**       |            |           |
-| **[[Pappaperm-Week-2]]**       |            |           |
+| **Pappaperm-Week-1**           |            |           |
+| [[Pappaperm-Day-01]]           | 2021-01-04 | Monday    |
+| [[Pappaperm-Day-02]]           | 2021-01-05 | Tuesday   |
+| [[Pappaperm-Day-03]]           | 2021-01-06 | Wednesday |
+| [[Pappaperm-Day-04]]           | 2021-01-07 | Thursday  |
+| [[Pappaperm-Day-05]]           | 2021-01-08 | Friday    |
+|                                |            |           |
+| **Pappaperm-Week-2**           |            |           |
+| [[Pappaperm-Day-06]]           | 2021-01-11 | Monday    |
+| [[Pappaperm-Day-07]]           | 2021-01-12 | Tuesday   |
+| [[Pappaperm-Day-08]]           | 2021-01-13 | Wednesday |
+| [[Pappaperm-Day-09]]           | 2021-01-14 | Thursday  |
+| [[Pappaperm-Day-10]]           | 2021-01-15 | Friday    |
+|                                |            |           |
 | **Pappaperm Week 3**           |            |           |
 | [[Pappaperm-Day-11]]           | 2021-01-18 | Monday    |
 | [[Pappaperm-Day-12]]           | 2021-01-19 | Tuesday   |
