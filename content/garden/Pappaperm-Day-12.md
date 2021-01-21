@@ -14,9 +14,9 @@ No, wait, that is not entirely true. I – or rather, my brain – knows many, m
 
 And there is no off button, and it is stuck on repeat. I do not appreciate repeat.
 
-But I do really *know* only one song: Trollmor. [[The-Baby-Son]] knows it now as well, and approximately 72 variations of it. I am quite the lullaby jazz-improvisationalist, because, as I mentioned, I do not appreciate repeat.
+But I do really *know* only one song: Trollmor. [[The-Baby-Son]] knows it now as well, and approximately 72 variation s of it. I am quite the lullaby jazz-improvisationalist, because, as I mentioned, I do not appreciate repeat.
 
-I sit down to write this just after I have handed an incosolable bundle of joy to The Woman because I caught myself restarting the improvisational humming of [[The Trollmor Theme]]. 
+I sit down to write this just after I have handed an [[incosolable bundle of joy]] to The Woman because I caught myself restarting the improvisational humming of [[The Trollmor Theme]]. 
 
 To my self.
 
@@ -28,3 +28,8 @@ No off.
 
 - [Swedish version on Spotify](https://open.spotify.com/track/2tu5QdvwqjQikupzaJRLV7?si=enzvoQxEQ2OmMJDEtgc64Q)
 - New verses by monotony-antagonistic parents: [Nye vers til Trollmors Vuggevise! – NRK Kultur og underholdning](https://www.nrk.no/kultur/nye-vers-til-trollmors-vuggevise_-1.866695)
+
+---
+ 
+ Tomorrow: [[Pappaperm-Day-13]]  
+ Yesterday: [[Pappaperm-Day-11]]  

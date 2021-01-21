@@ -14,7 +14,7 @@ I'm alone (so very, very alone) every day.
 
 But it's OK. No, really! It is! I am with The Baby-Son, so I'm OK. It's fun. Let me share the fun. 
 
-Newest day with words: [[Pappaperm-Day-11]]
+Newest day with words: [[Pappaperm-Day-13]]
 
 ---
 
@@ -139,3 +139,4 @@ Newest day with words: [[Pappaperm-Day-11]]
 ## Days of Note
 *Days on which I was kissed by the muse, when I had extra doubleplus fun writing*
 - [[Pappaperm-Day-06]]
+- [[Pappaperm-Day-12]]
