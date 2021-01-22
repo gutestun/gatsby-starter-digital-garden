@@ -7,6 +7,7 @@ tags: []
 ---
 
 # Day 13 – The Sound and Weight of Silence
+*2021-01-20 Wednesday*
 
 Today I leave you with only a quote from a friend.
 
