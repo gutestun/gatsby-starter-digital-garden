@@ -22,10 +22,11 @@ True to my credo of *never* measuring twice and *always* cutting slightly too mu
 
 Now for the celebratory quality assurance
 
-![[meme-programming-qa-bar.png]]
-
 I pull the door, and it stops, as it should. Good. Another dopamine-DING! But… I can't actually see the bit of the thingy that I am supposed to push down when I want to open the cabinet of cleaning liquids. The counter, I now realize, has a lip that protrudes *just* enough that there is no way to get to the security-thingy. My finger won't fint, neither the index nor the pinky. Neither that of The Woman, nor child 1 and – how ironic that would be if it did – neither that of the baby.
 
 My one hope is a really slim aluminium ruler that I have, but I dare not fetch it in fear of it being too thick, and all the precious cleaning chemicals being locked in forever.
 
 Maybe next week, maybe then I'll have gathered enough courage.
+
+---
+Yesterday: [[Pappaperm-Day-15]]  
