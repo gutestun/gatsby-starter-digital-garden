@@ -12,7 +12,9 @@ This morning I found myself first giving orders to a cardboard robot.
 
 By this time, 07:30, I had been up for 2.5 hrs. The robot had been up for 3.5 with [[The-Woman]]. 
 
-Then, shortly after, I was being surrounded by [[batman]], who threw a [[tantrum]] because his mask was broken (it wasn't he fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). The mask was thrown onto the floor where it was picked up by [[The-Baby-Son]], who threw a tantrum when I replaced the mask with a yellow plastic mug. Shorly thereafter I had said baby on my belly in a harness while Batman sulked in his room.
+Then, shortly after, I was being surrounded by [[batman]], who threw a [[tantrum]] because his mask was broken (it wasn't, he had fixed it himself, but not to his satisfaction, I think, I don't know, it looked perfectly fine to me). After disassembling and assembling the mask several times Batman had no patience no more with Dad's mechanical provess; the mask was thrown onto the floor where it was picked up by [[The-Baby-Son]]. Now he threw a new, colourful, exciting tantrum when I replaced the mask with a yellow plastic mug.
+
+Shorly thereafter I had said baby on my belly in a harness while Batman sulked in his room.
 
 My [[coffee]] this morning was made doubleplus strong.
 
