@@ -68,11 +68,11 @@ Newest day with words: [[Pappaperm-Day-17]]
 | [[Pappaperm-Day-30]]           | 2021-02-12 | Friday    |
 |                                |            |           |
 | **Pappaperm Week 7**           |            |           |
-| [[[[Journal Pappaperm Day 31]] | 2021-02-15 | Monday    |
-| [[[[Journal Pappaperm Day 32]] | 2021-02-16 | Tuesday   |
-| [[[[Journal Pappaperm Day 33]] | 2021-02-17 | Wednesday |
-| [[[[Journal Pappaperm Day 34]] | 2021-02-18 | Thursday  |
-| [[[[Journal Pappaperm Day 35]] | 2021-02-19 | Friday    |
+| [[Pappaperm Day 31]] | 2021-02-15 | Monday    |
+| [[Pappaperm Day 32]] | 2021-02-16 | Tuesday   |
+| [[Pappaperm Day 33]] | 2021-02-17 | Wednesday |
+| [[Pappaperm Day 34]] | 2021-02-18 | Thursday  |
+| [[Pappaperm Day 35]] | 2021-02-19 | Friday    |
 |                                |            |           |
 | **Pappaperm Week 8**           |            |           |
 | [[Pappaperm-Day-36]]           | 2021-02-22 | Monday    |
