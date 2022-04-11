@@ -1,3 +1,9 @@
+A small blog-thing I began during my parental leave. Didn't last long, but fun for a while, until the baby slept less and required more attention.
+
+Used the template for which the original readme.md is below:
+
+---
+
 # Starter for the Digital Garden theme
 
 Quickly get started using the Gatsby garden theme! This starter creates a new Gatsby site that is preconfigured to work with the [Gatsby garden theme](https://www.npmjs.com/package/gatsby-theme-garden).
